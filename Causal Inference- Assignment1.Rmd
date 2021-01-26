@@ -1,0 +1,34 @@
+---
+title: "Causal inference- Assignment 1"
+author: "Ashesh Shrestha"
+date: "1/26/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Part I: Personal Statement
+
+I was born in Patan, a city adjacent to Kathmandu which is the capital of Nepal. Being born in a middle-class family to the parents who were not much educated, I would say that I had a normal childhood. In Nepal, government schools provided free education but they were notorious for not being able to provide good quality of education. Thus, despite coming from not so affluent family, my parents worked had in their small tea shop to send me and my elder sister to a private school. Though, I would highlight the fact that the school which I went to was a low-cost private school which of course was not best of the private schools in my area. I enjoyed going to school, however it was not the formal studies which delighted me but play time during the recess was the biggest incentive to go to school. It still brings a smile in my face when I remember catching butterflies and dragonflies with friends in the school yard. In a nutshell, I would say that my childhood was enjoyable and memorable.
+
+Until I finished my high school I did not have any ambitions or aspirations. I was indecisive whether to go to college or not. I was clueless as to what to do with my life and career. Then, one day my father came to me and suggested me to join the military.   I thought about it for a few days and decided to give it a shot. For someone who so indecisive about his life and career why would he miss an opportunity to take on a stable government jobs. Also, Nepal has not been in any warfare since decades and there was no sign of Nepal going into war for any foreseeable future. Thence, I went through almost a yearlong selection process for commissioned officer in the Nepal Army. I passed the examinations but could not get through the interview. Though I was not selected, the examination curriculum I had to study -- about Nepalese history, politics and economy – ignited me to build a career in the field of social science, preferably economics. I had become fascinated by the world of social science.
+
+One fine day, a though struck my mind, why my parents were never able to scale up their small tea shop despite operating it for more than 20 years. Even more, they had not even been able to legally register it. Then, I realize that there are many other small shops that have been operating informally for years. The owners shared a few qualities: They were usually of lower middle income group or low income group. They were not very much educated (usually below high school). Many of them had only two options. Either, accept low paying jobs requiring very less education and skill or open up a small business. These were the people who chose the second option.
+
+Later, looking at my parents and similar hardworking micro-level entrepreneurs made me think that if given an opportunity to formalize their businesses, these small enterprises could scale up their productions, thus generating higher income and creating employment. I then developed interest to understand the reasons these enterprises are operating informally and study measures by which they can be brought into the formal sector. But, I did not have enough research skills to find answers to these questions. However, this did not stop me from getting the answers.
+
+I went to college and studied economics and sociology. This gave me a formal understanding of concepts and theories in the field of social science. After completing my undergraduate studies in 2015, I joined Samriddhi Foundation, an economic policy think tank working for economic prosperity through promotion of entrepreneurship.  I developed and proposed a project entitled ‘Leveraging Entrepreneurship for Advancing Prosperity’. This study focused on analyzing why most Nepali microenterprises operate informally, their growth potential if brought into formal bracket, and policy measures which can encourage these enterprises into the formal economy. 
+
+After working for 4 years at Samriddhi Foundation, I applied for Fulbright Foreign Student’s Program and fortunately I was among the 4 Nepalese who received the grant for the year 2020-21. Now, am here in the United States for studying MA in Economics at The University of Texas at Austin. I have opted to take causal inference as one of the electives as I believe it will help me comprehend the cause and effect relationship between economic variables. I will use the knowledge thus gained to create knowledge to aid policymakers make informed and evidence based economic policy in Nepal.
+
+In the next 1.5 years I plan to complete my MA degree and start my PhD. After completing PhD, I am to go into academia and contribute to the field of economics.
+
+##Part II: Quiz
+
+1. Real people
+
+2. Data science involves use of statistical techniques to analyze a given set of data to draw statistical inference i.e. to see how different variables/events are related to one another and to test the strength and significance of their statistical relation. In addition to this, causal inference involves figuring out the causal relationship between variables/events. Causal inference helps us draw conclusion on causal effect of one event on the other, which might not always be possible through statistical inference.
+
+3. ‘The inhumane reduction of humanity down to what can be counted.’
