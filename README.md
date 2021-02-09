@@ -1,2 +1,2 @@
 # Assignment1-causal
-Submission of homework assignment1 for causal
+This is the submission of Homework Assignment-1 for Causal Inference.
